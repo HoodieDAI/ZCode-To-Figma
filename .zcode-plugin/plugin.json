@@ -1,0 +1,8 @@
+{
+  "name": "zcode-to-figma",
+  "version": "0.1.0",
+  "description": "Read, create and edit Figma designs from ZCode: native canvas editing through a paired local Figma companion plugin, plus design context, screenshots, assets and motion. Ported from Duoasa/DSH-to-Figma (MIT).",
+  "author": { "name": "Duoasa (upstream), ported for ZCode" },
+  "skills": "./skills",
+  "mcpServers": "./.mcp.json"
+}

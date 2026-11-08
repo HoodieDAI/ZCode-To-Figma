@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "figma": {
+      "command": "node",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/server.mjs"],
+      "env": {
+        "ZCODE_FIGMA_BRIDGE_PORT": "3056"
+      }
+    }
+  }
+}
